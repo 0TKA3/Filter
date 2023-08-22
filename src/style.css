@@ -1,0 +1,23 @@
+.background {
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input {
+    padding: 20px;
+    margin-bottom: 10px;
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+    
+}
+li {
+    padding: 5px;
+    margin: 10px;
+}
